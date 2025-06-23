@@ -15,8 +15,6 @@ Hi 👋! My name is Miguel Caamaño and I'm a Web Developer, from Galicia, Spain
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=michaelBedDev&limit=5&theme=one_dark_pro&combine_all_yearly_contributions=true)
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 
 <!---
